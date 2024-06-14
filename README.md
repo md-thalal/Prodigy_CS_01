@@ -15,10 +15,10 @@ Allow users to input a message and a shift value to perform encryption and decry
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="Prodigy_CS_01/Screenshot.png" width=100% />
 
 
 ## Authors
 
-- [@md-thalal](https://www.github.com/octokatherine)
+- [@md-thalal](https://github.com/md-thalal)
 
